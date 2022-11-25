@@ -1,0 +1,40 @@
+body{
+    /* foi definido backgcolor e uma img pq caso a img n apareça tem o bcg p substituir. */
+    background: #d2d2c1 url(/img/fundo.png); 
+    font: 16px Arial, Helvetica, sans-serif;
+}
+
+#principal{
+    width: 900px; 
+}
+
+.nav-bar{
+    background: #c5c5b2;
+    padding: 18px;
+}
+
+#sobre-mim{
+    background: #e8e8d9;
+    padding: 10px;
+}
+
+a{
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+
+#rodape{
+    padding: 15px;
+    text-align: center; 
+}
+
+h1{
+    color: #828271;
+    font-size: 1.2em;
+}
+
+.fotos{
+    border: 10px solid #c3c3ae;
+}
